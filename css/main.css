@@ -1790,7 +1790,8 @@ nav a:hover {
   height: 48px !important;
 }
 .banner-area {
-  background: url(./img/background.jpeg) no-repeat center center/cover;
+  background: url(http://www.chevrashas.org/uploads/7/8/9/0/78907744/background-images/1445322469.jpeg)
+    no-repeat center center/cover;
 }
 @media (max-width: 767px) {
   .banner-area .fullscreen {
@@ -2152,7 +2153,8 @@ nav a:hover {
   }
 }
 .donate-area {
-  background: url(./img/background.jpeg) no-repeat center center fixed;
+  background: url(http://www.chevrashas.org/uploads/7/8/9/0/78907744/background-images/1445322469.jpeg)
+    no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
